@@ -1,5 +1,5 @@
 ### WEB DEVELOPER (OPEN TO REMOTE WORK ONLY)
-e: jorawebdev@gmail.com
+e: webdevfe@gmail.com
 
 ## Professional Experience
 I'm a UI Architect with a solid technical experience building modern web applications with performance, secuirty and scalability in mind. I work with clients in and outside of San Francisco Bay Area on projects focused on data visualization, APIs, UI frameworks, responsive design, accessibility and more. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
