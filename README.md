@@ -1,6 +1,5 @@
 ### WEB DEVELOPER (REMOTE WORK ONLY)
-U.S. citizen
-
+U.S. citizen  
 webdevfe@gmail.com
 
 ## Professional Experience
