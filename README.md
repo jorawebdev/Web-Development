@@ -1,6 +1,6 @@
 ### WEB DEVELOPER (REMOTE WORK ONLY)
-#U.S. citizen
-webdevfe@gmail.com
+U.S. citizen
+#webdevfe@gmail.com
 
 ## Professional Experience
 I'm a UI Architect, Web Developer, with a solid experience in building modern web applications with performance, secuirty and scalability in mind. I work with clients in and outside of San Francisco Bay Area on projects focused on data visualization, APIs, UI frameworks, responsive design, accessibility and more. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
