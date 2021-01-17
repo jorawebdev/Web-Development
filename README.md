@@ -19,7 +19,7 @@ I'm a UI Architect, Web Developer, with a solid experience in building modern we
 ### Cred, Inc.
 ![Cred, Inc.](cred_mobile.png)
 
-Re-architected Front End based on the tech stack: React, Redux, Node.js, Webpack, JavaScript. Implemented: JWT token based secure authentication and auth for the app, JavaScript SDK, improved and streamlined performance, optimized and refactored code, migration to new version of APIs, support of mobile and web.
+Re-architected Front End based on the tech stack: React, Redux, Node.js, Webpack, JavaScript. Implemented: JWT token based secure auth for the app, 2FA, JavaScript SDK, improved and streamlined performance, optimized and refactored code, migration to new version of APIs, support of mobile and web.
 ##### Tech Stack:
 * React, Redux, JavaScript, Webpack, Node.js, Node.js APIs, CSS, HTML5
 
