@@ -3,7 +3,9 @@ U.S. citizen
 webdevfe@gmail.com
 
 ## Professional Experience
-I'm a UI Architect, Web Developer, with a solid experience in building modern web applications with performance, secuirty and scalability in mind. I work with clients in and outside of San Francisco Bay Area on projects focused on data visualization, APIs, UI frameworks, responsive design, accessibility and more. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
+Today, offering a standard solution is not enough. To make it worth the investment, you need the right customized solution for your web application. You need a web developer with experience in multiple technologies.
+
+Hi! I’m a San Francisco Bay Area based web developer with a solid technical experience in building modern web applications with performance, security and scalability in mind. My work is focused on building customized applications, data visualization dashboards, components, API development and integration, responsive design, web accessibility , general web development and fixing bugs. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
