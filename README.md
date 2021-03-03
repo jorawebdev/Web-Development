@@ -1,8 +1,3 @@
-### zElement 
-Web Strategy and Development Consulting 
-webdevfe@gmail.com
-
-## Professional Experience
 Today, offering a standard solution is not enough. To make it worth the investment, you need the right customized solution for your web based business. You need the right mix of web strategy and development expertise. You need a specialist or a team that has a solid experience in building web applications using multiple technologies.
 
 zElement is a San Francisco Bay Area based web strategy and development company that has earned respect from succesfully serving big and small clients. We have the technical expertise and 20+ years of experience in building modern web applications with performance, security and scalability in mind. Our work is focused on delivering customized web applications. We take pride in keeping our skills fresh by staying on top of the latest technologies, industry trends and practices.
