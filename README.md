@@ -1,22 +1,21 @@
-### WEB DEVELOPER (REMOTE WORK ONLY)
-U.S. citizen  
+### zElement 
+Web Strategy and Development Consulting 
 webdevfe@gmail.com
 
 ## Professional Experience
-Today, offering a standard solution is not enough. To make it worth the investment, you need the right customized solution for your web application. You need a web developer with experience in multiple technologies.
+Today, offering a standard solution is not enough. To make it worth the investment, you need the right customized solution for your web based business. You need the right mix of web strategy and development expertise. You need a specialist or a team that has a solid experience in building web applications using multiple technologies.
 
-Hi! I’m a San Francisco Bay Area based web developer with a solid technical experience in building modern web applications with performance, security and scalability in mind. My work is focused on building customized applications, data visualization dashboards, components, API development and integration, responsive design, web accessibility , general web development and fixing bugs. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices.
+zElement is a San Francisco Bay Area based web strategy and development company that has earned respect from succesfully serving big and small clients. We have the technical expertise and 20+ years of experience in building modern web applications with performance, security and scalability in mind. Our work is focused on delivering customized web applications. We take pride in keeping our skills fresh by staying on top of the latest technologies, industry trends and practices.
 
-* 18 + years of solid web development experience
-* I work with modern technologies
+* 20+ years of solid web strategy and development experience
+* We work with the latest technologies to deliver performant, secure and scalable web applications
 * Clear professional communications and honest advise
 * Quality code delivered on time
-* Can meet in person if you're in San Francisco Bay Area
-* Can provide references 
+* References can be obtained
 
 **Tech Stack**: JavaScript, Web Components, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
-## Consulting Work
+## PROJECTS
 
 ### Cred, Inc.
 ![Cred, Inc.](cred_mobile.png)
