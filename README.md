@@ -209,3 +209,9 @@ YUI, JavaScript, MapQuest API, XML, HTML, CSS3
 
 ### Clients:
 ![clients](clientsBanner.png)
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+      console.log('JavaScript is working!');
+  });
+</script>
